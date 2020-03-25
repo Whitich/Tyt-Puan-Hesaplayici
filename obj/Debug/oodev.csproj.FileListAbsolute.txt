@@ -1,0 +1,10 @@
+C:\Users\Mery\source\repos\oodev\oodev\bin\Debug\oodev.exe.config
+C:\Users\Mery\source\repos\oodev\oodev\bin\Debug\oodev.exe
+C:\Users\Mery\source\repos\oodev\oodev\bin\Debug\oodev.pdb
+C:\Users\Mery\source\repos\oodev\oodev\obj\Debug\oodev.csprojAssemblyReference.cache
+C:\Users\Mery\source\repos\oodev\oodev\obj\Debug\oodev.Properties.Resources.resources
+C:\Users\Mery\source\repos\oodev\oodev\obj\Debug\oodev.csproj.GenerateResource.cache
+C:\Users\Mery\source\repos\oodev\oodev\obj\Debug\oodev.csproj.CoreCompileInputs.cache
+C:\Users\Mery\source\repos\oodev\oodev\obj\Debug\oodev.exe
+C:\Users\Mery\source\repos\oodev\oodev\obj\Debug\oodev.pdb
+C:\Users\Mery\source\repos\oodev\oodev\obj\Debug\oodev.Form1.resources
